@@ -1,0 +1,15 @@
+2024-01-05 21:42:43,768 - DEBUG - This is a debug message - 2
+2024-01-05 21:42:43,771 - INFO - This is an info message - 3
+2024-01-05 21:42:43,773 - WARNING - This is a warning message - 4
+2024-01-05 21:42:43,774 - ERROR - This is an error message - 5
+2024-01-05 21:42:43,776 - CRITICAL - This is a critical message - 6
+2024-01-05 21:42:49,866 - INFO - Program started. - 3
+2024-01-05 21:42:49,867 - INFO - Starting my_function... - 2
+2024-01-05 21:42:49,869 - INFO - Result: 5.0 - 7
+2024-01-05 21:42:49,870 - INFO - Finished my_function. - 11
+2024-01-05 21:42:49,872 - INFO - Program finished. - 5
+2024-01-05 21:42:52,143 - DEBUG - this is debug - 1
+2024-01-05 21:42:52,591 - INFO - this is info - 1
+2024-01-05 21:42:53,151 - WARNING - this is warning - 1
+2024-01-05 21:42:53,598 - ERROR - This is error - 1
+2024-01-05 21:42:54,712 - CRITICAL - this is critical - 1
